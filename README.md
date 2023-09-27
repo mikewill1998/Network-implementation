@@ -6,6 +6,11 @@ Neural network implementation according to papers
 
 * Resource: https://ieeexplore.ieee.org/document/726791
 
+## VGG
+**Paper: Very Deep Convolutional Networks for Large-Scale Image Recognition**
+
+* Resource: https://arxiv.org/abs/1409.1556
+
 ## ResNet
 **Paper: Deep Residual Learning for Image Recognition**
 
