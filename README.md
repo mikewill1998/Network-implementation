@@ -1,5 +1,7 @@
 # Network-implementation
-Neural network implementation according to papers
+***Neural network implementation according to papers***
+
+![PyTorch](https://github.com/mikewill1998/Network-implementation/blob/main/Logo/PyTorch_logo_black.svg)
 
 ## LeNet
 **Paper: Gradient-based learning applied to document recognition**
