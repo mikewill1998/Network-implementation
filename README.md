@@ -18,7 +18,7 @@
 
 * Resource: https://ieeexplore.ieee.org/document/7780459
 
-## Efficientnet
+## EfficientNet
 **Paper: EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks**
 
 * Resource: https://arxiv.org/abs/1905.11946
