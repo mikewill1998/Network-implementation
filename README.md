@@ -18,6 +18,11 @@
 
 * Resource: https://ieeexplore.ieee.org/document/7780459
 
+## Efficientnet
+**Paper: EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks**
+
+* Resource: https://arxiv.org/abs/1905.11946
+
 ## UNet
 **Paper: U-Net: Convolutional Networks for Biomedical Image Segmentation**
 
